@@ -72,7 +72,8 @@ streamlit run app.py
 ---
 
 ## Technologies Used
-The link to the model code that i delopped :  https://github.com/WissamMouder/Different-Intelligent-Models
+The link to the model code that i delopped :  https://github.com/WissamMouder/Different-Intelligent-Models   with name /Facial Emotion Recognition with Trensfer learning.ipynb
+
 * Python
 * Streamlit
 * OpenCV
