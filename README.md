@@ -34,13 +34,7 @@ Windows:
 venv\Scripts\activate
 ```
 
-Linux/Mac:
 
-```bash
-source venv/bin/activate
-```
-
----
 
 ### 3. Install Dependencies
 
@@ -83,7 +77,7 @@ streamlit run app.py
 * Streamlit
 * OpenCV
 * Deep Learning Model
-* TensorFlow / PyTorch (depending on implementation)
+*  PyTorch 
 
 ---
 
