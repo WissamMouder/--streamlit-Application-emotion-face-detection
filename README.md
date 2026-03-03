@@ -72,7 +72,7 @@ streamlit run app.py
 ---
 
 ## Technologies Used
-
+The link to the model code that i delopped  # Facial Emotion Recognition with Trensfer learning.ipynb
 * Python
 * Streamlit
 * OpenCV
