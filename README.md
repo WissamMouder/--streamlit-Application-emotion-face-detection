@@ -2,7 +2,7 @@
 
 # streamlit-emotion-face-detection
 A Streamlit app that detects and recognizes human emotions from facial expressions in real time or upload image
-
+For the model that I developed and deployed in this case I used PyTorch with Transfer Learning (ResNet-50), which achieved high accuracy, additionally I applied data augmentation to enhance performance.
 
 https://github.com/user-attachments/assets/ee49a452-20fd-401f-b719-69e39495926e
 
